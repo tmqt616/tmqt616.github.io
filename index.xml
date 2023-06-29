@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Jun 2023 20:20:44 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Myfirstarticles</title>
+      <link>/posts/myfirstarticles/</link>
+      <pubDate>Thu, 29 Jun 2023 20:20:44 +0800</pubDate>
+      
+      <guid>/posts/myfirstarticles/</guid>
+      <description>
+        
+          
+            这是我的第一篇博客 一开始只安装了hugo_extended_0.114.1_windowsamd64文件没有安装hugo-theme-clarity-master文件，结果导入themes是hugo_extended_0.114.1_windowsamd64文件，最后没有配置成功，后来从课堂派下载hugo-theme-clarity-master重新整一遍就配置成功了。但是第二次在自己创的Myfirstarticles文件中少个空格，检查好几遍才发现问题并解决了。将git文件上传至我的github时我的链接打开显示404，检查很多遍才知道没有连接上，又重复了一遍git init才解决并打开网页
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
